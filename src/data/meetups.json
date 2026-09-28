@@ -971,23 +971,6 @@
       "coverHeight": 800
     },
     {
-      "id": "evt-XRYjkbpI4J5jaA2",
-      "title": "Omarchy Triangle",
-      "url": "https://luma.com/eb2l3kei",
-      "start": "2026-10-01T20:30:00.000Z",
-      "end": "2026-10-01T23:30:00.000Z",
-      "timezone": "America/New_York",
-      "address": "Ponysaurus Brewing Co., 219 Hood St, Durham, NC 27701, USA",
-      "city": "Durham",
-      "country": "US",
-      "online": false,
-      "geo": { "lat": 35.989584199999996, "lon": -78.8952496 },
-      "hosts": [],
-      "cover": "/images/meetups/evt-XRYjkbpI4J5jaA2-full.webp",
-      "coverWidth": 533,
-      "coverHeight": 800
-    },
-    {
       "id": "evt-9maqFArsJsjvWqm",
       "title": "Omarchy Atlanta",
       "url": "https://luma.com/y455ahk6",
@@ -1003,6 +986,23 @@
       "cover": "/images/meetups/evt-9maqFArsJsjvWqm-full.webp",
       "coverWidth": 800,
       "coverHeight": 372
+    },
+    {
+      "id": "evt-XRYjkbpI4J5jaA2",
+      "title": "Omarchy Triangle",
+      "url": "https://luma.com/eb2l3kei",
+      "start": "2026-10-01T22:00:00.000Z",
+      "end": "2026-10-02T01:00:00.000Z",
+      "timezone": "America/New_York",
+      "address": "The Daily, 108 E Main St Suite 101, Durham, NC 27701, USA",
+      "city": "Durham",
+      "country": "US",
+      "online": false,
+      "geo": { "lat": 35.9947478, "lon": -78.90044879999999 },
+      "hosts": [],
+      "cover": "/images/meetups/evt-XRYjkbpI4J5jaA2-full.webp",
+      "coverWidth": 533,
+      "coverHeight": 800
     },
     {
       "id": "evt-1ouSFJxK78jgCia",
