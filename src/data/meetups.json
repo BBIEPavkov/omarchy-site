@@ -1,7 +1,7 @@
 {
   "source": "luma-api",
   "calendar": "https://luma.com/omarchy",
-  "refreshed": "2026-09-30",
+  "refreshed": "2026-10-01",
   "events": [
     {
       "id": "evt-YDyCEwwpiMzSFDB",
@@ -1338,7 +1338,7 @@
       "city": "Taipei City, Taiwan",
       "country": "TW",
       "online": false,
-      "geo": { "lat": 25.0329636, "lon": 121.56542680000001 },
+      "geo": { "lat": 25.03418743235902, "lon": 121.56568719696187 },
       "hosts": [],
       "cover": "/images/meetups/evt-q5DFUXoGZH97A6g-full.webp",
       "coverWidth": 800,
