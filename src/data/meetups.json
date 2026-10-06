@@ -1,7 +1,7 @@
 {
   "source": "luma-api",
   "calendar": "https://luma.com/omarchy",
-  "refreshed": "2026-10-05",
+  "refreshed": "2026-10-06",
   "events": [
     {
       "id": "evt-YDyCEwwpiMzSFDB",
@@ -1005,6 +1005,23 @@
       "coverHeight": 800
     },
     {
+      "id": "evt-9SW4XA7ufMZCqmL",
+      "title": "Omarchy Brasil #003: Omarchy + Nix: Do Código ao Sistema",
+      "url": "https://luma.com/ig3ig1f5",
+      "start": "2026-10-06T22:30:00.000Z",
+      "end": "2026-10-07T00:00:00.000Z",
+      "timezone": "America/Sao_Paulo",
+      "address": null,
+      "city": null,
+      "country": "BR",
+      "online": false,
+      "geo": { "lat": -10.3333333, "lon": -53.2, "approximate": true },
+      "hosts": [],
+      "cover": "/images/meetups/evt-9SW4XA7ufMZCqmL-full.webp",
+      "coverWidth": 800,
+      "coverHeight": 800
+    },
+    {
       "id": "evt-VjuPq46FI93haPG",
       "title": "Omarchy Meetup - Green Bay",
       "url": "https://luma.com/eoxdjbog",
@@ -1037,6 +1054,23 @@
       "cover": "/images/meetups/evt-3xFi2ywmmZyyBPe-full.webp",
       "coverWidth": 800,
       "coverHeight": 800
+    },
+    {
+      "id": "evt-SBgGOcbWy8KD2hF",
+      "title": "Omarchy Zürich: First Online Meetup",
+      "url": "https://luma.com/t0yoatrm",
+      "start": "2026-10-07T17:00:00.000Z",
+      "end": "2026-10-07T18:00:00.000Z",
+      "timezone": "Europe/Zurich",
+      "address": "Zürich, Switzerland",
+      "city": "Zürich",
+      "country": "CH",
+      "online": false,
+      "geo": { "lat": 47.3768866, "lon": 8.541694 },
+      "hosts": [],
+      "cover": "/images/meetups/evt-SBgGOcbWy8KD2hF-full.webp",
+      "coverWidth": 800,
+      "coverHeight": 489
     },
     {
       "id": "evt-KdQXM1uXuFaOEcz",
@@ -1158,6 +1192,21 @@
       "coverHeight": 800
     },
     {
+      "id": "calev-asFaAT1FhYo2AnP",
+      "title": "Omarchy Tokyo Night",
+      "url": "https://omarchy-tokyo.connpass.com/event/407638/",
+      "start": "2026-10-14T10:30:00.000Z",
+      "end": "2026-10-14T12:30:00.000+00:00",
+      "timezone": "Asia/Tokyo",
+      "address": "汐留ビルディング, 日本、〒105-0022 東京都港区海岸１丁目２−２０",
+      "city": "港区",
+      "country": "JP",
+      "online": false,
+      "geo": { "lat": 35.6566906, "lon": 139.7593867 },
+      "hosts": [],
+      "cover": null
+    },
+    {
       "id": "evt-SwexecbZSjNcHvk",
       "title": "OMARCHY WARSAW",
       "url": "https://luma.com/ga4nmugm",
@@ -1173,6 +1222,40 @@
       "cover": "/images/meetups/evt-SwexecbZSjNcHvk-full.webp",
       "coverWidth": 800,
       "coverHeight": 800
+    },
+    {
+      "id": "evt-P1eGvzI9IGTUv8s",
+      "title": "Omarchy Istanbul Meetup 001",
+      "url": "https://luma.com/omarchy-istanbul",
+      "start": "2026-10-15T16:00:00.000Z",
+      "end": "2026-10-15T19:00:00.000Z",
+      "timezone": "Europe/Istanbul",
+      "address": "Komünite Space, Radisson Collection Hotel, Ayazağa, Azerbaycan Cd. No:3A, 34475 Sarıyer/İstanbul, Türkiye",
+      "city": "Sarıyer",
+      "country": "TR",
+      "online": false,
+      "geo": { "lat": 41.1085595, "lon": 28.986573300000003 },
+      "hosts": [],
+      "cover": "/images/meetups/evt-P1eGvzI9IGTUv8s-full.webp",
+      "coverWidth": 800,
+      "coverHeight": 800
+    },
+    {
+      "id": "evt-7RaevM3wmKYKOW1",
+      "title": "Omarchy Atlanta",
+      "url": "https://luma.com/0esy9wrp",
+      "start": "2026-10-15T21:30:00.000Z",
+      "end": "2026-10-15T22:30:00.000Z",
+      "timezone": "America/New_York",
+      "address": "Pour Taproom-Beltline, 661 Auburn Ave NE, Atlanta, GA 30312, USA",
+      "city": "Atlanta",
+      "country": "US",
+      "online": false,
+      "geo": { "lat": 33.7562001, "lon": -84.3654657 },
+      "hosts": [],
+      "cover": "/images/meetups/evt-7RaevM3wmKYKOW1-full.webp",
+      "coverWidth": 800,
+      "coverHeight": 372
     },
     {
       "id": "evt-2h0vxlgK0HC9Weh",
@@ -1396,6 +1479,23 @@
       "coverHeight": 800
     },
     {
+      "id": "evt-L8yDpMHRCzOsQT6",
+      "title": "Jacksonville Omarchy Meetup",
+      "url": "https://luma.com/qnsm7fwq",
+      "start": "2026-10-22T21:30:00.000Z",
+      "end": "2026-10-23T00:30:00.000Z",
+      "timezone": "America/New_York",
+      "address": "Higher Pixels, 5133 San Jose Blvd, Jacksonville, FL 32207, USA",
+      "city": "Jacksonville",
+      "country": "US",
+      "online": false,
+      "geo": { "lat": 30.264993299999997, "lon": -81.64671299999999 },
+      "hosts": [],
+      "cover": "/images/meetups/evt-L8yDpMHRCzOsQT6-full.webp",
+      "coverWidth": 800,
+      "coverHeight": 800
+    },
+    {
       "id": "evt-bwIotEyWDuDPayu",
       "title": "DOmarchy 001 - Omarchy Santo Domingo 🇩🇴",
       "url": "https://luma.com/abahralp",
@@ -1464,6 +1564,23 @@
       "coverHeight": 800
     },
     {
+      "id": "evt-XJ3VtDVg2YLvHeE",
+      "title": "Omarchy SF",
+      "url": "https://luma.com/7c2wohwf",
+      "start": "2026-11-05T01:00:00.000Z",
+      "end": "2026-11-05T04:00:00.000Z",
+      "timezone": "America/Los_Angeles",
+      "address": "Cloudflare, 101 Townsend St, San Francisco, CA 94107, USA",
+      "city": "San Francisco",
+      "country": "US",
+      "online": false,
+      "geo": { "lat": 37.7803014, "lon": -122.39072150000001 },
+      "hosts": [],
+      "cover": "/images/meetups/evt-XJ3VtDVg2YLvHeE-full.webp",
+      "coverWidth": 800,
+      "coverHeight": 800
+    },
+    {
       "id": "evt-FlmSjVfDHvGwMCi",
       "title": "Omarchy Stockholm Meetup - 001",
       "url": "https://luma.com/nok9jafm",
@@ -1495,6 +1612,23 @@
       "hosts": [],
       "cover": "/images/meetups/evt-SrfYTm4gfXfmvv3-full.webp",
       "coverWidth": 800,
+      "coverHeight": 800
+    },
+    {
+      "id": "evt-MwxCpSJVFMDYrGX",
+      "title": "Omarchy Moscow Meetup",
+      "url": "https://luma.com/q6hzbcen",
+      "start": "2026-12-05T09:00:00.000Z",
+      "end": "2026-12-05T11:00:00.000Z",
+      "timezone": "Europe/Moscow",
+      "address": "55.861566, 37.549861",
+      "city": null,
+      "country": "RU",
+      "online": false,
+      "geo": { "lat": 55.625578, "lon": 37.6063916, "approximate": true },
+      "hosts": [],
+      "cover": "/images/meetups/evt-MwxCpSJVFMDYrGX-full.webp",
+      "coverWidth": 720,
       "coverHeight": 800
     }
   ]
