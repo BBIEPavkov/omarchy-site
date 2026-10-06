@@ -1022,23 +1022,6 @@
       "coverHeight": 800
     },
     {
-      "id": "evt-VjuPq46FI93haPG",
-      "title": "Omarchy Meetup - Green Bay",
-      "url": "https://luma.com/eoxdjbog",
-      "start": "2026-10-06T23:30:00.000Z",
-      "end": "2026-10-07T02:30:00.000Z",
-      "timezone": "America/Chicago",
-      "address": "The Depot Green Bay, 200 Dousman St, Green Bay, WI 54303, USA",
-      "city": "Green Bay",
-      "country": "US",
-      "online": false,
-      "geo": { "lat": 44.5194571, "lon": -88.01780769999999 },
-      "hosts": [],
-      "cover": "/images/meetups/evt-VjuPq46FI93haPG-full.webp",
-      "coverWidth": 800,
-      "coverHeight": 800
-    },
-    {
       "id": "evt-3xFi2ywmmZyyBPe",
       "title": "Omarchy Vancouver",
       "url": "https://luma.com/ncar2zld",
