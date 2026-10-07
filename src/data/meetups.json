@@ -1,7 +1,7 @@
 {
   "source": "luma-api",
   "calendar": "https://luma.com/omarchy",
-  "refreshed": "2026-10-06",
+  "refreshed": "2026-10-07",
   "events": [
     {
       "id": "evt-YDyCEwwpiMzSFDB",
@@ -1005,23 +1005,6 @@
       "coverHeight": 800
     },
     {
-      "id": "evt-9SW4XA7ufMZCqmL",
-      "title": "Omarchy Brasil #003: Omarchy + Nix: Do Código ao Sistema",
-      "url": "https://luma.com/ig3ig1f5",
-      "start": "2026-10-06T22:30:00.000Z",
-      "end": "2026-10-07T00:00:00.000Z",
-      "timezone": "America/Sao_Paulo",
-      "address": null,
-      "city": null,
-      "country": "BR",
-      "online": false,
-      "geo": { "lat": -10.3333333, "lon": -53.2, "approximate": true },
-      "hosts": [],
-      "cover": "/images/meetups/evt-9SW4XA7ufMZCqmL-full.webp",
-      "coverWidth": 800,
-      "coverHeight": 800
-    },
-    {
       "id": "evt-3xFi2ywmmZyyBPe",
       "title": "Omarchy Vancouver",
       "url": "https://luma.com/ncar2zld",
@@ -1103,6 +1086,23 @@
       "geo": { "lat": -36.8507499, "lon": 174.7655605 },
       "hosts": [],
       "cover": "/images/meetups/evt-MAWomf8TvheaJuW-full.webp",
+      "coverWidth": 800,
+      "coverHeight": 800
+    },
+    {
+      "id": "evt-9SW4XA7ufMZCqmL",
+      "title": "Omarchy Brasil #003: Omarchy + Nix: Do Código ao Sistema",
+      "url": "https://luma.com/ig3ig1f5",
+      "start": "2026-10-09T22:30:00.000Z",
+      "end": "2026-10-10T00:00:00.000Z",
+      "timezone": "America/Sao_Paulo",
+      "address": null,
+      "city": null,
+      "country": "BR",
+      "online": false,
+      "geo": { "lat": -10.3333333, "lon": -53.2, "approximate": true },
+      "hosts": [],
+      "cover": "/images/meetups/evt-9SW4XA7ufMZCqmL-full.webp",
       "coverWidth": 800,
       "coverHeight": 800
     },
@@ -1604,11 +1604,11 @@
       "start": "2026-12-05T09:00:00.000Z",
       "end": "2026-12-05T11:00:00.000Z",
       "timezone": "Europe/Moscow",
-      "address": "55.861566, 37.549861",
-      "city": null,
+      "address": "Dmitrovskoye Hwy, 81, Moskva, Russia, 127238",
+      "city": "Moskva",
       "country": "RU",
       "online": false,
-      "geo": { "lat": 55.625578, "lon": 37.6063916, "approximate": true },
+      "geo": { "lat": 55.8618506, "lon": 37.5495024 },
       "hosts": [],
       "cover": "/images/meetups/evt-MwxCpSJVFMDYrGX-full.webp",
       "coverWidth": 720,
